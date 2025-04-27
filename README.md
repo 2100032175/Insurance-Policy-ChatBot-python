@@ -2,10 +2,17 @@ This insurance chatbot acts like your personal policy helper. You upload your in
 
 Key points covered:
 How it works (upload docs + ask questions)
+
 Real examples of questions
+
 Benefits (saves time, keeps data private)
+
 Honest about limitations
+
 Friendly, relatable comparison
+
 Conversational tone ("you/your" instead of "users")
+
 No technical jargon
-Positive but realistic tone.
+
+Positive but realistic tone..
